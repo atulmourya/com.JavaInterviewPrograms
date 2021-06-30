@@ -46,7 +46,7 @@ public class DemoArrayList {
 			System.out.println("Using Iterator after sorting:- "+i.next());
 		}
 		
-		;
+		
 	}
 
 }
