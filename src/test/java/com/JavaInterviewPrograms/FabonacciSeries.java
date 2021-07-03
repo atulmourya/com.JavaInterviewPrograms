@@ -17,7 +17,7 @@ public class FabonacciSeries {
 		      firstTerm = secondTerm;
 		      secondTerm = nextTerm;
 		    }
-
+		    
 	}
 
 }
